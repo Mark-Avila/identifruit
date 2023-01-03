@@ -1,0 +1,686 @@
+[
+  {
+    "index": 1,
+    "labels": {
+      "en": "Apple",
+      "tg": "Mansanas"
+    },
+    "image": "fruit_imgs/1.jpg",
+    "desc": "An apple is an edible fruit produced by an apple tree (Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek, and European Christian tradition. \nAn apple is an edible fruit produced by an apple tree (Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek, and European Christian tradition.\n There are more than 7,500 known cultivars of apples. Different cultivars are bred for various tastes and uses, including cooking, eating raw, and cider production. Trees and fruit are prone to a number of fungal, bacterial, and pest problems, which can be controlled by a number of organic and non-organic means. In 2010, the fruit's genome was sequenced as part of research on disease control and selective breeding in apple production.\n Worldwide production of apples in 2018 was 86 million tonnes, with China accounting for nearly half of the total."
+  },
+  {
+    "index": 2,
+    "labels": {
+      "en": "Apple (Green)",
+      "tg": "Mansanas (Berde)"
+    },
+    "image": "fruit_imgs/2.jpg",
+    "desc": "An apple is an edible fruit produced by an apple tree (Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek, and European Christian tradition. \nAn apple is an edible fruit produced by an apple tree (Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek, and European Christian tradition.\n There are more than 7,500 known cultivars of apples. Different cultivars are bred for various tastes and uses, including cooking, eating raw, and cider production. Trees and fruit are prone to a number of fungal, bacterial, and pest problems, which can be controlled by a number of organic and non-organic means. In 2010, the fruit's genome was sequenced as part of research on disease control and selective breeding in apple production. \nWorldwide production of apples in 2018 was 86 million tonnes, with China accounting for nearly half of the total."
+  },
+  {
+    "index": 3,
+    "labels": {
+      "en": "Avocado",
+      "tg": "Abokado"
+    },
+    "image": "fruit_imgs/3.jpg",
+    "desc": "The avocado (Persea americana) is a medium-sized, evergreen tree in the laurel family (Lauraceae). It is native to the Americas and was first domesticated by Mesoamerican tribes more than 5,000 years ago. Then as now it was prized for its large and unusually oily fruit. The tree likely originated in the highlands bridging south-central Mexico and Guatemala. Its fruit, sometimes also referred to as an alligator or avocado pear, is botanically a large berry containing a single large seed.Avocado trees are partially self-pollinating, and are often propagated through grafting to maintain consistent fruit output. Avocados are presently cultivated in the tropical and Mediterranean climates of many countries. Mexico is the world's leading producer of avocados as of 2020, supplying nearly 30% of the global harvest in that year. \nThe fruit of domestic varieties have smooth, buttery, golden-green flesh when ripe. Depending on the cultivar, avocados have green, brown, purplish, or black skin, and may be pear-shaped, egg-shaped, or spherical. For commercial purposes the fruits are picked while immature and ripened after harvesting. The nutrient density and extremely high fat content of avocado flesh are useful to a variety of cuisines and are often eaten to enrich vegetarian diets. \nIn major production regions like Chile, Mexico and California the water demands of avocado farms place strain on local sources. Avocado production is also implicated in other externalities, including deforestation and human rights concerns associated with the partial control of their production in Mexico by organized crime.Global warming is expected to result in significant changes to the suitable growing zones for avocados, and place additional pressures on the locales in which they are produced due to heat waves and drought."
+  },
+  {
+    "index": 4,
+    "labels": {
+      "en": "Banana",
+      "tg": "Saging"
+    },
+    "image": "fruit_imgs/4.jpg",
+    "desc": "A banana is an elongated, edible fruit - botanically a berry - produced by several kinds of large herbaceous flowering plants in the genus Musa. In some countries, bananas used for cooking may be called 'plantains', distinguishing them from dessert bananas. The fruit is variable in size, color, and firmness, but is usually elongated and curved, with soft flesh rich in starch covered with a rind, which may be green, yellow, red, purple, or brown when ripe. The fruits grow upward in clusters near the top of the plant. Almost all modern edible seedless (parthenocarp) bananas come from two wild species - Musa acuminata and Musa balbisiana. The scientific names of most cultivated bananas are Musa acuminata, Musa balbisiana, and Musa x paradisiaca for the hybrid Musa acuminata x M. balbisiana, depending on their genomic constitution. The old scientific name for this hybrid, Musa sapientum, is no longer used.\nMusa species are native to tropical Indomalaya and Australia, and are likely to have been first domesticated in Papua New Guinea. They are grown in 135 countries, primarily for their fruit, and to a lesser extent to make fiber, banana wine, and banana beer, and as ornamental plants. The world's largest producers of bananas in 2017 were India and China, which together accounted for approximately 38% of total production.\nWorldwide, there is no sharp distinction between 'bananas' and 'plantains'. Especially in the Americas and Europe, 'banana' usually refers to soft, sweet, dessert bananas, particularly those of the Cavendish group, which are the main exports from banana-growing countries. By contrast, Musa cultivars with firmer, starchier fruit are called 'plantains'. In other regions, such as Southeast Asia, many more kinds of banana are grown and eaten, so the binary distinction is not as useful and is not made in local languages.\nThe term 'banana' is also used as the common name for the plants that produce the fruit. This can extend to other members of the genus Musa, such as the scarlet banana (Musa coccinea), the pink banana (Musa velutina), and the Fe'i bananas. It can also refer to members of the genus Ensete, such as the snow banana (Ensete glaucum) and the economically important false banana (Ensete ventricosum). Both genera are in the banana family, Musaceae."
+  },
+  {
+    "index": 5,
+    "labels": {
+      "en": "Bell pepper",
+      "tg": "Siling-pula"
+    },
+    "image": "fruit_imgs/5.jpg",
+    "desc": "A banana is an elongated, edible fruit - botanically a berry - produced by several kinds of large herbaceous flowering plants in the genus Musa. In some countries, bananas used for cooking may be called 'plantains', distinguishing them from dessert bananas. The fruit is variable in size, color, and firmness, but is usually elongated and curved, with soft flesh rich in starch covered with a rind, which may be green, yellow, red, purple, or brown when ripe. The fruits grow upward in clusters near the top of the plant. Almost all modern edible seedless (parthenocarp) bananas come from two wild species - Musa acuminata and Musa balbisiana. The scientific names of most cultivated bananas are Musa acuminata, Musa balbisiana, and Musa x paradisiaca for the hybrid Musa acuminata x M. balbisiana, depending on their genomic constitution. The old scientific name for this hybrid, Musa sapientum, is no longer used.\nMusa species are native to tropical Indomalaya and Australia, and are likely to have been first domesticated in Papua New Guinea. They are grown in 135 countries, primarily for their fruit, and to a lesser extent to make fiber, banana wine, and banana beer, and as ornamental plants. The world's largest producers of bananas in 2017 were India and China, which together accounted for approximately 38% of total production.\nWorldwide, there is no sharp distinction between 'bananas' and 'plantains'. Especially in the Americas and Europe, 'banana' usually refers to soft, sweet, dessert bananas, particularly those of the Cavendish group, which are the main exports from banana-growing countries. By contrast, Musa cultivars with firmer, starchier fruit are called 'plantains'. In other regions, such as Southeast Asia, many more kinds of banana are grown and eaten, so the binary distinction is not as useful and is not made in local languages.\nThe term 'banana' is also used as the common name for the plants that produce the fruit. This can extend to other members of the genus Musa, such as the scarlet banana (Musa coccinea), the pink banana (Musa velutina), and the Fe'i bananas. It can also refer to members of the genus Ensete, such as the snow banana (Ensete glaucum) and the economically important false banana (Ensete ventricosum). Both genera are in the banana family, Musaceae."
+  },
+  {
+    "index": 6,
+    "labels": {
+      "en": "Antidesma bunius",
+      "tg": "Bignay"
+    },
+    "image": "fruit_imgs/6.jpg",
+    "desc": "Antidesma bunius is a species of fruit tree in the family Phyllanthaceae. It is native to Southeast Asia and northern Australia.\nIt is a variable plant which may be short and shrubby or tall and erect, approaching 30 metres (98 feet) in height. It has large oval-shaped leathery evergreen leaves up to about 20 centimetres (8 inches) long and 7 cm (3 in) wide. They are attached to the twigs of the tree with short petioles, creating a dense canopy.\nEach bunch of fruits ripens unevenly, so the fruits in a bunch are all different colors. The skin of the fruit has red juice, while the white pulp has colorless juice. The fruit contains a light-colored seed. The fruit has a sour taste similar to that of the cranberry when immature, and a tart but sweet taste when ripe."
+  },
+  {
+    "index": 7,
+    "labels": {
+      "en": "Averrhoa bilimbi",
+      "tg": "Kamias"
+    },
+    "image": "fruit_imgs/7.jpg",
+    "desc": "Averrhoa bilimbi (commonly known as bilimbi, cucumber tree, or tree sorrel) is a fruit-bearing tree of the genus Averrhoa, family Oxalidaceae.\nAverrhoa bilimbi is a small tropical tree native to Malaysia and Indonesia, reaching up to 15m in height. It is often multitrunked, quickly dividing into ramifications. Bilimbi leaves are alternate, pinnate, measuring approximately 30-60 cm in length. Each leaf contains 11-37 leaflets; ovate to oblong, 2-10 cm long and 1-2 cm wide and cluster at branch extremities. The leaves are quite similar to those of the Otaheite gooseberry. The tree is cauliflorous with 18-68 flowers in panicles that form on the trunk and other branches. The flowers are heterotristylous, borne in a pendulous panicle inflorescence. There flower is fragrant, corolla of 5 petals 10-30 mm long, yellowish green to reddish purple"
+  },
+  {
+    "index": 8,
+    "labels": {
+      "en": "Cassis",
+      "tg": "Black Currant"
+    },
+    "image": "fruit_imgs/8.jpg",
+    "desc": "The blackcurrant (Ribes nigrum), also known as black currant or cassis, is a deciduous shrub in the family Grossulariaceae grown for its edible berries. It is native to temperate parts of central and northern Europe and northern Asia, where it prefers damp fertile soils. It is widely cultivated both commercially and domestically.\nIt is winter hardy, but cold weather at flowering time during the spring may reduce the size of the crop. Bunches of small, glossy black fruit develop along the stems in the summer and can be harvested by hand or by machine. Breeding is common in Scotland, Poland, Lithuania, Latvia, Norway, and New Zealand to produce fruit with better eating qualities and bushes with greater hardiness and disease resistance.\nThe raw fruit is particularly rich in vitamin C and polyphenols. Blackcurrants can be eaten raw but are usually cooked in sweet or savoury dishes. They are used to make jams, preserves, and syrups and are grown commercially for the juice market. The fruit is also used to make alcoholic beverages and dyes"
+  },
+  {
+    "index": 9,
+    "labels": {
+      "en": "Blackberry",
+      "tg": "Morus (Itim)"
+    },
+    "image": "fruit_imgs/9.jpg",
+    "desc": "Morus nigra, called black mulberry or blackberry (not to be confused with the blackberries that are various species of Rubus), is a species of flowering plant in the family Moraceae that is native to southwestern Asia and the Iberian Peninsula, where it has been cultivated for so long that its precise natural range is unknown. The black mulberry is known for its large number of chromosomes.\nThe fruit is a compound cluster of several small drupes that are dark purple, almost black when ripe, and they are 2.5 cm (1 in) in diameter. Black mulberry is richly flavoured, similar to the red mulberry (Morus rubra) rather than the more insipid fruit of the white mulberry (Morus alba). Mulberry fruit color derives from anthocyanins.\n Sometimes other mulberry species are confused with black mulberry, particularly black-fruited individuals of the white mulberry. Black mulberry may be distinguished from the other species by the uniformly hairy lower surface of its leaves."
+  },
+  {
+    "index": 10,
+    "labels": {
+      "en": "Chocolate pudding fruit",
+      "tg": "Black Currant"
+    },
+    "image": "fruit_imgs/10.jpg",
+    "desc": "Averrhoa bilimbi (commonly known as bilimbi, cucumber tree, or tree sorrel) is a fruit-bearing tree of the genus Averrhoa, family Oxalidaceae.\nAverrhoa bilimbi is a small tropical tree native to Malaysia and Indonesia, reaching up to 15m in height. It is often multitrunked, quickly dividing into ramifications. Bilimbi leaves are alternate, pinnate, measuring approximately 30-60 cm in length. Each leaf contains 11-37 leaflets; ovate to oblong, 2-10 cm long and 1-2 cm wide and cluster at branch extremities. The leaves are quite similar to those of the Otaheite gooseberry. The tree is cauliflorous with 18-68 flowers in panicles that form on the trunk and other branches. The flowers are heterotristylous, borne in a pendulous panicle inflorescence. There flower is fragrant, corolla of 5 petals 10-30 mm long, yellowish green to reddish purple"
+  },
+  {
+    "index": 11,
+    "labels": {
+      "en": "Breadfruit",
+      "tg": "Rimas"
+    },
+    "image": "fruit_imgs/11.jpg",
+    "desc": "Breadfruit (Artocarpus altilis) is a species of flowering tree in the mulberry and jackfruit family (Moraceae) believed to be a domesticated descendant of Artocarpus camansi originating in New Guinea, the Maluku Islands, and the Philippines. It was initially spread to Oceania via the Austronesian expansion. It was further spread to other tropical regions of the world during the Colonial Era. British and French navigators introduced a few Polynesian seedless varieties to Caribbean islands during the late 18th century. Today it is grown in some 90 countries throughout South and Southeast Asia, the Pacific Ocean, the Caribbean, Central America and Africa. Its name is derived from the texture of the moderately ripe fruit when cooked, similar to freshly baked bread and having a potato-like flavor.\nThe trees have been widely planted in tropical regions, including lowland Central America, northern South America, and the Caribbean. In addition to the fruit serving as a staple food in many cultures, the light, sturdy timber of breadfruit has been used for outriggers, ships, and houses in the tropics.\nBreadfruit is closely related to Artocarpus camansi (breadnut or seeded breadfruit) of New Guinea, the Maluku Islands, and the Philippines, Artocarpus blancoi (tipolo or antipolo) of the Philippines, and Artocarpus mariannensis (dugdug) of Micronesia, all of which are sometimes also referred to as 'breadfruit'. It is also closely related to the jackfruit."
+  },
+  {
+    "index": 12,
+    "labels": {
+      "en": "Caimito",
+      "tg": "Kaimito"
+    },
+    "image": "fruit_imgs/12.jpg",
+    "desc": "Chrysophyllum cainito is a tropical tree of the family Sapotaceae. It is native to the Isthmus of Panama, where it was domesticated. It has spread to the Greater Antilles and the West Indies and is now grown throughout the tropics, including Southeast Asia. It grows rapidly and reaches 20 meters in height.\nThe fruit is globose and typically measures from 2 to 3 inches in diameter. When ripe, it usually has purple skin with a faint green area appearing around the calyx. A radiating star pattern is visible in the pulp. Greenish-white and yellow-fruited cultivars are sometimes available. The skin is rich in latex, and both it and the rind are not edible. The flattened seeds are light brown and hard. It is a seasonal fruit bearing tree.\nThe fruits are used as a fresh dessert fruit; it is sweet and often served chilled. Infusions of the leaves have been used against diabetes and articular rheumatism. The fruit has antioxidant properties. The bark is considered a tonic and stimulant, and a bark decoction is used as an antitussive. The fruit also exists in three colors, dark purple, greenish brown and yellow. The purple fruit has a denser skin and texture while the greenish brown fruit has a thin skin and a more liquid pulp; the yellow variety is less common and difficult to find."
+  },
+  {
+    "index": 13,
+    "labels": {
+      "en": "Eggruit (Canistel)",
+      "tg": "Tiesa"
+    },
+    "image": "fruit_imgs/13.jpg",
+    "desc": "Pouteria campechiana (commonly known as the cupcake fruit, eggfruit, zapote amarillo or canistel) is an evergreen tree native to, and cultivated in, southern Mexico, Belize, Guatemala, and El Salvador. It is cultivated in other countries, such as India, Costa Rica, Brazil, the United States, the Dominican Republic, Australia, Cambodia, Vietnam, Indonesia, Sri Lanka, Nigeria, and the Philippines. The edible part of the tree is its fruit, which is colloquially known as an egg fruit.\nThe shape and size of the fruit is highly variable, depending on the cultivar. The better selections consistently produce large, ovate fruit with glossy skin weighing upwards of 400 g (14 oz). The flesh is somewhat pasty, although the best varieties have a creamy, mousse-like texture. The flavor is rich and is reminiscent of an egg custard. The fruit may contain one to six large, brown seeds.\nThe canistel displays climacteric fruit ripening. A fully mature fruit shows an intense yellow skin color. Eventually, it softens and drops from the tree. Insects and birds avoid the fruit flesh, perhaps due to its' astringent properties, that are much reduced in senescent fruits, but still perceptible to the human palate. Apparently mature fruits severed from the tree while still hard often fail to develop the desired climacteric changes in terms of reduced astringency and a texture reminiscent of egg yolk."
+  },
+  {
+    "index": 14,
+    "labels": {
+      "en": "Cantaloupe",
+      "tg": "Milong Kastila (Milon)"
+    },
+    "image": "fruit_imgs/14.jpg",
+    "desc": "The cantaloupe, rockmelon (Australia and New Zealand, although cantaloupe is used in some states of Australia), sweet melon, or spanspek (Southern Africa) is a melon that is a variety of the muskmelon species (Cucumis melo) from the family Cucurbitaceae.\nCantaloupes range in weight from 0.5 to 5 kilograms (1 to 11 lb). Originally, cantaloupe referred only to the non-netted, orange-fleshed melons of Europe, but today may refer to any orange-fleshed melon of the C. melo species."
+  },
+  {
+    "index": 15,
+    "labels": {
+      "en": "Carambola (Starfruit)",
+      "tg": "Balimbing"
+    },
+    "image": "fruit_imgs/15.jpg",
+    "desc": "Carambola, also known as star fruit, is the fruit of Averrhoa carambola, a species of tree native to tropical Southeast Asia. The mildly poisonous fruit is commonly consumed in parts of Brazil, Southeast Asia, South Asia, the South Pacific, Micronesia, parts of East Asia, the United States, and the Caribbean and contains the neurotoxin caramboxin. The tree is cultivated throughout tropical areas of the world.\nThe fruit has distinctive ridges running down its sides (usually 5-6). When cut in cross-section, it resembles a star, giving it the name of star fruit. The entire fruit is edible, usually raw, and may be cooked or made into relishes, preserves, garnish, and juices."
+  },
+  {
+    "index": 16,
+    "labels": {
+      "en": "Cashew",
+      "tg": "Kasoy"
+    },
+    "image": "fruit_imgs/16.jpg",
+    "desc": "The cashew tree (Anacardium occidentale) is a tropical evergreen tree native to South America in the genus Anacardium that produces the cashew seed and the cashew apple accessory fruit. The tree can grow as tall as 14 metres (46 feet), but the dwarf cultivars, growing up to 6 m (20 ft), prove more profitable, with earlier maturity and greater yields. The cashew seed is commonly considered a snack nut (cashew nut) eaten on its own, used in recipes, or processed into cashew cheese or cashew butter. Like the tree, the nut is often simply called a cashew. Cashew allergies are triggered by the proteins found in tree nuts, and cooking often does not remove or change these proteins.\nIn 2019, four million tonnes of cashew nuts were produced globally, with Ivory Coast and India as the leading producers. As well as the nut and fruit, the plant has several other uses. The shell of the cashew seed yields derivatives that can be used in many applications including lubricants, waterproofing, paints, and, starting in World War II, arms production. The cashew apple is a light reddish to yellow fruit, whose pulp and juice can be processed into a sweet, astringent fruit drink or fermented and distilled into liquor."
+  },
+  {
+    "index": 17,
+    "labels": {
+      "en": "Cherry",
+      "tg": "Seresa"
+    },
+    "image": "fruit_imgs/17.jpg",
+    "desc": "The cashew tree (Anacardium occidentale) is a tropical evergreen tree native to South America in the genus Anacardium that produces the cashew seed and the cashew apple accessory fruit. The tree can grow as tall as 14 metres (46 feet), but the dwarf cultivars, growing up to 6 m (20 ft), prove more profitable, with earlier maturity and greater yields. The cashew seed is commonly considered a snack nut (cashew nut) eaten on its own, used in recipes, or processed into cashew cheese or cashew butter. Like the tree, the nut is often simply called a cashew. Cashew allergies are triggered by the proteins found in tree nuts, and cooking often does not remove or change these proteins.\nIn 2019, four million tonnes of cashew nuts were produced globally, with Ivory Coast and India as the leading producers. As well as the nut and fruit, the plant has several other uses. The shell of the cashew seed yields derivatives that can be used in many applications including lubricants, waterproofing, paints, and, starting in World War II, arms production. The cashew apple is a light reddish to yellow fruit, whose pulp and juice can be processed into a sweet, astringent fruit drink or fermented and distilled into liquor."
+  },
+  {
+    "index": 18,
+    "labels": {
+      "en": "Sapodilla",
+      "tg": "Tsiko"
+    },
+    "image": "fruit_imgs/18.jpg",
+    "desc": "Manilkara zapota, commonly known as sapodilla, sapote, naseberry, nispero or chicle, is a long-lived, evergreen tree native to southern Mexico, Central America and the Caribbean. An example natural occurrence is in coastal Yucatán in the Petenes mangroves ecoregion, where it is a subdominant plant species. It was introduced to the Philippines during Spanish colonization. It is grown in large quantities in Mexico and in tropical Asia including India, Pakistan, Thailand, Malaysia, Cambodia, Indonesia, Vietnam, Bangladesh.\nThe fruit is a large berry, 4-8 cm (2-3 in) in diameter. Inside, its flesh ranges from a pale yellow to an earthy brown color with a grainy texture akin to that of a well-ripened pear. Each fruit contains one to six seeds. The seeds are hard, glossy, and black, resembling beans, with a hook at one end that can catch in the throat if swallowed.\nThe fruit has an exceptionally sweet, malty flavor. The unripe fruit is hard to the touch and contains high amounts of saponin, which has astringent properties similar to tannin, drying out the mouth."
+  },
+  {
+    "index": 19,
+    "labels": {
+      "en": "Cocoa beans",
+      "tg": "Buto ng kakaw"
+    },
+    "image": "fruit_imgs/19.jpg",
+    "desc": "The cocoa bean (technically cocoa seed) or simply cocoa, also called the cacao bean (technically cacao seed) or cacao, is the dried and fully fermented seed of Theobroma cacao, from which cocoa solids (a mixture of nonfat substances) and cocoa butter (the fat) can be extracted. Cocoa beans are the basis of chocolate, and Mesoamerican foods including tejate, an indigenous Mexican drink that also includes maize, and pinolillo, a similar Nicaraguan drink made from a cornmeal & cocoa powder."
+  },
+  {
+    "index": 20,
+    "labels": {
+      "en": "Coconut",
+      "tg": "Niyog"
+    },
+    "image": "fruit_imgs/20.jpg",
+    "desc": "Coconuts are distinct from other fruits because their endosperm contains a large quantity of clear liquid, called coconut water or coconut juice. Mature, ripe coconuts can be used as edible seeds, or processed for oil and plant milk from the flesh, charcoal from the hard shell, and coir from the fibrous husk. Dried coconut flesh is called copra, and the oil and milk derived from it are commonly used in cooking - frying in particular - as well as in soaps and cosmetics. Sweet coconut sap can be made into drinks or fermented into palm wine or coconut vinegar. The hard shells, fibrous husks and long pinnate leaves can be used as material to make a variety of products for furnishing and decoration.\nBotanically, the coconut fruit is a drupe, not a true nut. Like other fruits, it has three layers: the exocarp, mesocarp, and endocarp. The exocarp is the glossy outer skin, usually yellow-green to yellow-brown in color. The mesocarp is composed of a fiber, called coir, which has many traditional and commercial uses. Both the exocarp and the mesocarp make up the 'husk' of the coconut, while the endocarp makes up the hard coconut 'shell'. The endocarp is around 4 millimetres (1/8 inch) thick and has three distinctive germination pores (micropyles) on the distal end. Two of the pores are plugged (the 'eyes'), while one is functional."
+  },
+  {
+    "index": 21,
+    "labels": {
+      "en": "Coffee Beans",
+      "tg": "Kape (Buto ng Kape)"
+    },
+    "image": "fruit_imgs/21.jpg",
+    "desc": "A coffee bean is a seed of the Coffea plant and the source for coffee. It is the pip inside the red or purple fruit often referred to as a coffee cherry. Just like ordinary cherries, the coffee fruit is also a so-called stone fruit. Even though the coffee beans are not technically beans, they are referred to as such because of their resemblance to true beans. The fruits; cherries or berries, most commonly contain two stones with their flat sides together. A small percentage of cherries contain a single seed, instead of the usual two. This is called a 'peaberry'. The peaberry occurs only between 10% and 15% of the time, and it is a fairly common (yet scientifically unproven) belief that they have more flavour than normal coffee beans. Like Brazil nuts (a seed) and white rice, coffee beans consist mostly of endosperm.\nThe two most economically important varieties of coffee plant are the Arabica and the Robusta; approximately 60% of the coffee produced worldwide is Arabica and ~40% is Robusta. Arabica beans consist of 0.8-1.4% caffeine and Robusta beans consist of 1.7-4.0% caffeine. As coffee is one of the world's most widely consumed beverages, coffee beans are a major cash crop and an important export product, accounting for over 50% of some developing nations' foreign exchange earnings. This has made coffee very important in culture and food around the world. In 2017, 70% of total coffee production was exported, worth US$19.9 billion."
+  },
+  {
+    "index": 22,
+    "labels": {
+      "en": "Sugar Apple",
+      "tg": "Atis"
+    },
+    "image": "fruit_imgs/22.jpg",
+    "desc": "The sugar-apple or sweet-sop is the edible fruit of Annona squamosa, the most widely grown species of Annona and a native of tropical climate in the Americas and West Indies. Spanish traders aboard the Manila galleons docking in the Philippines brought it to Asia. The fruit is spherical-conical, 5-10 centimetres (2-4 inches) in diameter and 6-10 cm (2+1/4-4 in) long, and weighing 100-240 grams (3.5-8.5 ounces), with a thick rind composed of knobby segments. The color is typically pale green through blue-green, with a deep pink blush in certain varieties, and typically has a bloom. It is unique among Annona fruits in being segmented; the segments tend to separate when ripe, exposing the interior.\nThe flesh is fragrant and sweet, creamy white through light yellow, and resembles and tastes like custard. It is found adhering to 13-to-16-millimetre-long (1/2 to 5/8 in) seeds forming individual segments arranged in a single layer around a conical core. It is soft, slightly grainy, and slippery. The hard, shiny seeds may number 20-40 or more per fruit and have a brown to black coat, although varieties exist that are almost seedless. The seeds can be ground for use as an insecticide.\nThere are also new varieties being developed in Taiwan and Hong Kong. The atemoya or 'pineapple sugar-apple', a hybrid between the sugar-apple and the cherimoya, is popular in Taiwan, although it was first developed in the United States in 1908. The fruit is similar in sweetness to the sugar-apple but has a very different taste. As its name suggests, it tastes like pineapple."
+  },
+  {
+    "index": 23,
+    "labels": {
+      "en": "Dragonfruit",
+      "tg": "Saniata"
+    },
+    "image": "fruit_imgs/23.jpg",
+    "desc": "A pitaya or pitahaya is the fruit of several different cactus species indigenous to the Americas. Pitaya usually refers to fruit of the genus Stenocereus, while pitahaya or dragon fruit refers to fruit of the genus Selenicereus (formerly Hylocereus), both in the family Cactaceae. Dragon fruit is cultivated in Peru, Mexico, South Asia, Southeast Asia, East Asia, the United States, the Caribbean, Australia, Mesoamerica and throughout tropical and subtropical regions of the world."
+  },
+  {
+    "index": 24,
+    "labels": {
+      "en": "Durian",
+      "tg": "Duryan"
+    },
+    "image": "fruit_imgs/24.jpg",
+    "desc": "The durian is the edible fruit of several tree species belonging to the genus Durio. There are 30 recognised Durio species, at least nine of which produce edible fruit. Durio zibethinus, native to Borneo and Sumatra, is the only species available in the international market. It has over 300 named varieties in Thailand and 100 in Malaysia, as of 1987. Other species are sold in their local regions. Durians are commonly associated with Southeast Asian cuisine, especially in Indonesia, Malaysia, Singapore, Thailand, Cambodia, Philippines, Bangladesh and Vietnam.\nNamed in some regions as the 'king of fruits', the durian is distinctive for its large size, strong odour, and thorn-covered rind. The fruit can grow as large as 30 centimetres (12 inches) long and 15 cm (6 in) in diameter, and it typically weighs 1 to 3 kilograms (2 to 7 pounds). Its shape ranges from oblong to round, the colour of its husk green to brown, and its flesh pale yellow to red, depending on the species.\nAn acquired taste, some people regard the durian as having a pleasantly sweet fragrance, whereas others find the aroma overpowering and unpleasant. The smell evokes reactions from deep appreciation to intense disgust, and has been described variously as rotten onions, turpentine, and raw sewage. The persistence of its odour, which may linger for several days, has led certain hotels and public transportation services in Southeast Asia to ban the fruit. The nineteenth-century British naturalist Alfred Russel Wallace described its flesh as 'a rich custard highly flavoured with almonds'. The flesh can be consumed at various stages of ripeness, and it is used to flavour a wide variety of savoury and sweet desserts in Southeast Asian cuisines. The seeds can also be eaten when cooked."
+  },
+  {
+    "index": 25,
+    "labels": {
+      "en": "Grape",
+      "tg": "Ubas"
+    },
+    "image": "fruit_imgs/25.jpg",
+    "desc": "A grape is a fruit, botanically a berry, of the deciduous woody vines of the flowering plant genus Vitis. Grapes are a non-climacteric type of fruit, generally occurring in clusters.\nThe cultivation of grapes began perhaps 8,000 years ago, and the fruit has been used as human food over history. Eaten fresh or in dried form (as raisins, currants and sultanas), grapes also hold cultural significance in many parts of the world, particularly for their role in winemaking. Other grape-derived products include various types of jam, juice, vinegar and oil."
+  },
+  {
+    "index": 26,
+    "labels": {
+      "en": "Green Mandarine",
+      "tg": "Dalandan"
+    },
+    "image": "fruit_imgs/26.jpg",
+    "desc": "The mandarin orange (Citrus reticulata), also known as the mandarin or mandarine, is a small citrus tree fruit. Treated as a distinct species of orange, it is usually eaten plain or in fruit salads. Tangerines are a group of orange-coloured citrus fruit consisting of hybrids of mandarin orange with some pomelo contribution. \nMandarins are smaller and oblate, unlike the spherical common oranges (which are a mandarin-pomelo hybrid). The taste is considered sweeter and stronger than the common orange. A ripe mandarin is firm to slightly soft, heavy for its size, and pebbly-skinned. The peel is thin, loose, with little white mesocarp, so they are usually easier to peel and to split into segments. Hybrids usually have these traits to a lesser degree. The mandarin is tender and is damaged easily by cold. It can be grown in tropical and subtropical areas.\nAccording to genetic studies, the mandarin was one of the original citrus species; through breeding or natural hybridization, it is the ancestor of many hybrid citrus cultivars. With the citron and pomelo, it is the ancestor of the most commercially important hybrids (such as sweet and sour oranges, grapefruit, and many lemons and limes). The mandarin has also been hybridized with other citrus species, such as the desert lime and the kumquat. Though the ancestral mandarin was bitter, most commercial mandarin strains derive from hybridization with pomelo, which gives them a sweet fruit."
+  },
+  {
+    "index": 27,
+    "labels": {
+      "en": "Guanabana (Soursop)",
+      "tg": "Guyabano"
+    },
+    "image": "fruit_imgs/27.jpg",
+    "desc": "Soursop (also called graviola, guyabano, and in Hispanic America, guanábana) is the fruit of Annona muricata, a broadleaf, flowering, evergreen tree. It is native to the tropical regions of the Americas and the Caribbean and is widely propagated. It is in the same genus, Annona, as cherimoya and is in the Annonaceae family. \nThe soursop is adapted to areas of high humidity and relatively warm winters; temperatures below 5 °C (41 °F) will cause damage to leaves and small branches, and temperatures below 3 °C (37 °F) can be fatal. The fruit becomes dry and is no longer good for concentrate.\nWith an aroma similar to pineapple, the flavor of the fruit has been described as a combination of strawberries and apple with sour citrus flavor notes, contrasting with an underlying thick creamy texture reminiscent of banana.\nSoursop is widely promoted (sometimes as 'graviola') as an alternative cancer treatment, but there is no reliable medical evidence it is effective for treating cancer or any disease"
+  },
+  {
+    "index": 28,
+    "labels": {
+      "en": "Crataegus",
+      "tg": "Hawthorn"
+    },
+    "image": "fruit_imgs/28.jpg",
+    "desc": "Crataegus, commonly called hawthorn, quickthorn, thornapple, May-tree, whitethorn, Mayflower, or hawberry, is a genus of several hundred species of shrubs and trees in the family Rosaceae, native to temperate regions of the Northern Hemisphere in Europe, Asia, North Africa, and North America. The name 'hawthorn' was originally applied to the species native to northern Europe, especially the common hawthorn C. monogyna, and the unmodified name is often so used in Britain and Ireland. The name is now also applied to the entire genus and to the related Asian genus Rhaphiolepis.\nCrataegus species are shrubs or small trees, mostly growing to 5-15 m (15-50 ft) tall with small pome fruit and (usually) thorny branches. The most common type of bark is smooth grey in young individuals, developing shallow longitudinal fissures with narrow ridges in older trees. The thorns are small sharp-tipped branches that arise either from other branches or from the trunk, and are typically 1-3 cm (1/2-1 in) long (recorded as up to 11.5 cm or 4+1/2 in in one case). The leaves grow spirally arranged on long shoots, and in clusters on spur shoots on the branches or twigs. The leaves of most species have lobed or serrated margins and are somewhat variable in shape. The fruit, sometimes known as a 'haw', is berry-like but structurally a pome containing from one to five pyrenes that resemble the 'stones' of plums, peaches, etc., which are drupaceous fruit in the same subfamily"
+  },
+  {
+    "index": 29,
+    "labels": {
+      "en": "Jackfruit",
+      "tg": "Langka"
+    },
+    "image": "fruit_imgs/29.jpg",
+    "desc": "The jackfruit (Artocarpus heterophyllus), also known as jack tree is a species of tree in the fig, mulberry, and breadfruit family (Moraceae) Its origin is in the region between the Western Ghats of southern India, all of Bangladesh, Sri Lanka, and the rainforests of the Philippines, Indonesia, and Malaysia. The jack tree is well-suited to tropical lowlands, and is widely cultivated throughout tropical regions of the world. It bears the largest fruit of all trees, reaching as much as 55 kg (120 pounds) in weight, 90 cm (35 inches) in length, and 50 cm (20 inches) in diameter A mature jack tree produces some 200 fruits per year, with older trees bearing up to 500 fruits in a year The jackfruit is a multiple fruit composed of hundreds to thousands of individual flowers, and the fleshy petals of the unripe fruit are eaten.\nThe ripe fruit is sweet (depending on variety) and is more often used for desserts. Canned green jackfruit has a mild taste and meat-like texture that lends itself to being called a 'vegetable meat'.Jackfruit is commonly used in South and Southeast Asian cuisines. Both ripe and unripe fruits are consumed. It is available internationally canned or frozen and in chilled meals as are various products derived from the fruit such as noodles and chips."
+  },
+  {
+    "index": 30,
+    "labels": {
+      "en": "Jamaincan Cherry",
+      "tg": "Aratiles"
+    },
+    "image": "fruit_imgs/30.jpg",
+    "desc": "Muntingia, or the Aratiles, is a genus of plants in the family Muntingiaceae, comprising only one species, Muntingia calabura, and was named in honour of Abraham Munting. It is native to the neotropics, from Mexico south to Bolivia, with edible fruit, and has been widely introduced in other tropical areas.\nThe fruits are edible and in some cases sold in markets, as they can be eaten raw or processed as jam; leaves can be used for making tea. Also, traditional medicinal uses have been reported for the leaves (headaches, prostate problems, reduce gastric ulcers), bark (antiseptic), flowers (antiseptic, reduce swelling, antispasmodic), and fruits (respiratory problems; antidiarrheic). It is said to help diabetic patients. \nA small reduction was recorded in patients' blood sugar levels after consumption. It is planted as an ornamental species,for shade, and also because the flowers are a source of nectar and pollen for the beekeeping industry. The tree is also planted along river banks in Brazil, as fallen fruits attract fish. Calabura has a potential as a useful species for restoration of disturbed areas and stopping soil erosion. It also offers shelter for wildlife, as it is a source of food for about 60 species of birds and mammals."
+  },
+  {
+    "index": 31,
+    "labels": {
+      "en": "Malabar plum (Jambul)",
+      "tg": "Duhat"
+    },
+    "image": "fruit_imgs/31.jpg",
+    "desc": "Syzygium cumini, commonly known as Malabar plum, Java plum, black plum, jamun, jaman, jambul, jambolan, or Duhat, is an evergreen tropical tree in the flowering plant family Myrtaceae, and favored for its fruit, timber, and ornamental value. It is native to the Indian subcontinent, adjoining regions of Southeast Asia, including Myanmar, Sri Lanka, and the Andaman Islands. It can reach heights of up to 30 metres (98 ft) and can live more than 100 years. A rapidly growing plant, it is considered an invasive species in many world regions.\nThe name of the fruit, black plum, is sometimes mistranslated as blackberry, which is a different fruit in an unrelated order. Syzygium cumini has been introduced to areas including islands of the Pacific and Indian Oceans, Australia, Hong Kong and Singapore.\nThe tree was introduced to Florida in 1911 by the United States Department of Agriculture, and is commonly grown in tropical and subtropical regions worldwide. Its fruits are eaten by various native birds and small mammals, such as jackals, civets, and fruit bats."
+  },
+  {
+    "index": 32,
+    "labels": {
+      "en": "Jocote",
+      "tg": "Sinigwelas"
+    },
+    "image": "fruit_imgs/32.jpg",
+    "desc": "S. purpurea fruit grow on deciduous trees in warm tropical climates. They begin to develop following tiny red flowers, before any leaves appear on the tree. S. purpurea fruit grows along thick, knobby branches in clusters or alone. They are about 2 and a half to 5 centimeters in diameter and are slightly elongated. Some have a knob on the end, or are oddly shaped. Young S. purpurea fruit are green or yellowish-green and ripen to a purple or red color; some variants of the species will ripen to a yellow color.\nThe thin skin has a waxy appearance and is edible. The pulp is yellow when ripe and sweet. In the center of the fruit is a large pit, or stone, which is inedible. The flavor of a S. purpurea fruit is said to be similar to a plum, sweet with a bit of an acidic aftertaste. S. purpurea fruit is available in the fall and winter months. S. purpurea fruit are rich in vitamin C and carbohydrates. They are a source of calcium, phosphorus, iron and a small amount of fiber. They contain carotene, B-complex vitamins, and several important amino acids. S. purpurea are high in antioxidants, which help rid the body of free radicals.\nThe fruit are most often enjoyed as-is, raw and fully ripe. Ripe fruits will be soft to the touch and are very sweet. They are eaten much like a plum or mango, with the pulp eaten and the stone discarded. The pulp can be used to make beverages, mashed and mixed with water and a sweetener. Whole fruits are boiled in water with sugar and sometimes other fruits to make a syrup or “honey”. This is eaten with ice cream or alone as a dessert. The fruits are cooked whole to make preserves, the seeds strained from the liquid. Boiling and drying S. purpurea fruits will preserve them for several months."
+  },
+  {
+    "index": 33,
+    "labels": {
+      "en": "Kaffir Lime",
+      "tg": "Kaffir Lime"
+    },
+    "image": "fruit_imgs/33.jpg",
+    "desc": "Kaffir limes are fruits belonging to the citrus family whose trees grow natively in the tropics of Southeast Asia and Southern China. They have a unique, bumpy pattern on their skin which looks a little bit like the folds of the brain! Kaffir lime plants are most often used for their leaves which can be used fresh or dried to add flavour to Southeastern cuisine. Kaffir lime leaves are known to be the most aromatic of all herbs and add an extremely unique and distinctive flavour to many different dishes. They are used predominately in Thai, Lao and Cambodian cuisine in soups, curry pastes and stir fries. \nWhile less common, the zest and rind of kaffir limes are used in some Southeastern dishes and in Cambodia, they even candy the entire fruit to enjoy as a treat. Kaffir lime plants are also used for many non-culinary purposes. In particular, the juice of kaffir limes is used in a number of different body, aromatic and cleaning products, as the fruit can be tough and difficult to eat (unless you candy it like in Cambodia!). Kaffir limes are used in household cleaning products in Thailand as the juice is known to have antibacterial properties. Kaffir lime juice is also used commonly in Thailand as a therapeutic hair rinse to prevent hair loss. Kaffir limes are a great addition to your garden and they can be grown in well drained soil or in a pot. Being native to Southeast Asia, they need lots of sun and only mildly cold winters, but are pretty resilient once they begin to fruit. "
+  },
+  {
+    "index": 34,
+    "labels": {
+      "en": "Langsat",
+      "tg": "Lansones"
+    },
+    "image": "fruit_imgs/34.jpg",
+    "desc": "Langsat or Lanzones are trees from the Mahogany family, scientifically known as Lansium parasiticum. Langsat is a plant that bears small edible fruits. These fruits are similar to potatoes on their outer appearance and inside they have a white flesh containing inedible, bitter seeds. Langsat originated in the Southeast Asian regions.\nThe larger size variety of langsat is known as Duku. Langsat grows in clusters and is widely cultivated in Malaysia, Indonesia, Thailand and Sumatra. In India, it grows in the southern hills of Nilgiri from April to September.\nThese fruits have a tangy, sour and sweet combination of flavors, and tastes a lot like grapes. Some people find its taste similar to that of pomelo. Its aril is juicy and translucent when ripe. Once ripe, the taste of langsat is really refreshing and exotic. Only the fresh langsat tastes the best because if kept for days after plucking, it may lose its taste and become bland."
+  },
+  {
+    "index": 35,
+    "labels": {
+      "en": "Lemon",
+      "tg": "Limon"
+    },
+    "image": "fruit_imgs/35.jpg",
+    "desc": "The lemon is rounded and slightly elongated, it belongs to the family of citrus fruit and therefore it shares many of the characteristics of other species of citruses, as for instance the thick skin. The pulp is pale yellow, juicy and with an acid flavour; it is divided in gores. The skin is yellow and specially bright when it is ripen.\nIt is used fresh for cooking, and its juice is used in the industry for processed foodstuffs. For the pharmaceutical industry it is the raw material for many medicine manufactures, and at home it is used for different homemade remedies.\nThe lemon has multiple properties: it reinforces the immunological system, it revitalizes, it activates the calcium metabolism for bones and teeth, it cures haemorrhages, it rejuvenates and it helps in sliming diets. Nevertheless, as a very energetic fruit, it must not be given to elderly people and those in acute nervous condition."
+  },
+  {
+    "index": 36,
+    "labels": {
+      "en": "Philippine Lime",
+      "tg": "Calamansi"
+    },
+    "image": "fruit_imgs/36.jpg",
+    "desc": "Calamansi limes are a citrus fruit popular in the Philippines and throughout Southeast Asia, where they are used as flavoring ingredients and for their juice. They have a sour, tart flavor with moderate acidity. \nCalamansi limes are small fruits, usually measuring around an inch in diameter and weighing around 30 grams. They're round to slightly flattened. The skin of the fruit is shiny and thin, and can be eaten along with the rest of the fruit. Indeed, the skin is actually sweeter than the fruit itself. Calamansi limes are green when immature, turning a greenish orange and then finally fully orange as it ripens. But since it can take up to a year for calamansi to ripen, they are mostly used in their unripe state.\nThe fruit itself is orange in color, even when the skins are still green, and consists of around seven to nine segments along with a number of cream-colored seeds. They are available year-round, although their peak season is from winter to early spring."
+  },
+  {
+    "index": 37,
+    "labels": {
+      "en": "Longan",
+      "tg": "Lansones"
+    },
+    "image": "fruit_imgs/37.jpg",
+    "desc": "Dimocarpus Longan, better known as longan fruit, is a white-fleshed exotic fruit that belongs to the soapberry family. It is known for its similarities with lychee fruit. Longan is a tasty addition to puddings, sorbets, smoothies, salads, and jellies. All you need to do is peel away its outer shell for consuming longan. Longan tastes like grapes and looks like an eyeball when you take the shell off. The black seed and white flesh resemble a pupil. Hence, it is also called dragon eye fruit.\nLongan fruit has a musky flavour, while lychee has a floral taste. Unlike fresh lychees, it is pretty challenging to find fresh longans. You will often find them frozen, canned, or dried in grocery stores. In other words, fresh varieties of this fruit are not very easily available."
+  },
+  {
+    "index": 38,
+    "labels": {
+      "en": "Lychee",
+      "tg": "Litsiyas"
+    },
+    "image": "fruit_imgs/38.jpg",
+    "desc": "Lychee is a tropical fruit that is unique in appearance and flavor. It's native to China but can grow in certain warm regions of the U.S like Florida and Hawaii. Lychee is also known as 'alligator strawberry' for its red, bumpy skin. Lychees are round or oblong in shape and are 1 ½ to 2 inches in diameter. Their opaque white flesh is fragrant and sweet, with floral notes. Lychee fruit can be eaten on its own, used in tropical fruit salads, or blended into cocktails, juices, smoothies, and desserts.\nThe flavor of lychee fruit is described in a few different ways. Some say it tastes like a cross between a strawberry and a watermelon, while others taste a blend of citrus and rose water or other floral note, owing to the fruit's sweet, strong aroma."
+  },
+  {
+    "index": 39,
+    "labels": {
+      "en": "Velvet Apple",
+      "tg": "Mabolo"
+    },
+    "image": "fruit_imgs/39.jpg",
+    "desc": "Velvet Apples range in color from golden-yellow to orange and purplish-red. They have a darkened, permanent calyx at the stem end, and are covered in tiny, brown hairs. Seedless varieties have a short, squat shape, like a persimmon, whereas varieties with seeds are more rounded. They can develop flat spots due to growing in tight clusters of two to four fruits, and can be anywhere from 5 to 10 centimeters wide. The skin is thin and can be tough and bitter and is generally discarded. In some varieties, the skin may have an unpleasant aroma that will dissipate once it's removed. The white to off-white flesh is crisp when mature and will soften slightly as it ripens. The taste is sweet, and the flavor has been likened to banana-flavored apples or strawberry-mango yogurt with hints of berries and bubblegum. Darker, red fruits are considered sweeter than lighter colored varieties."
+  },
+  {
+    "index": 40,
+    "labels": {
+      "en": "Macadamia",
+      "tg": "Makadamya"
+    },
+    "image": "fruit_imgs/40.jpg",
+    "desc": "Macadamia is a genus of four species of trees in the flowering plant family Proteaceae. They are indigenous to Australia, native to northeastern New South Wales and central and southeastern Queensland specifically. Two species of the genus are commercially important for their fruit, the macadamia nut(or simply macadamia). Global production in 2015 was 160,000 tonnes (180,000 short tons). Other names include Queensland nut, bush nut, maroochi nut, bauple nut and Hawaii nut. In Australian Aboriginal languages, the fruit is known by names such as bauple, gyndl or jindilli (north of Great Dividing Range) and boombera (south of the Great Range). It was an important source of bushfood for the Aboriginal peoples who are the original inhabitants of the area. Fresh macadamia nut with husk or pericarp cut in half Macadamia nut in its shell and a roasted nut.\nMacadamia nut with sawn nutshell and special key used to pry open the nut. \nThe nut was first commercially produced on a wide scale in Hawaii, where Australian seeds were introduced in the 1880s, and for some time, they were the world's largest producer. South Africa has been the world's largest producer of the macadamia since the 2010s."
+  },
+  {
+    "index": 41,
+    "labels": {
+      "en": "Malay Apple",
+      "tg": "Makopa"
+    },
+    "image": "fruit_imgs/41.jpg",
+    "desc": "Malay Apple (Syzygium malaccense, Family Myrtaceae) is also known as Mountain Apple, Otaheite Apple, Pommerac, and cashew, or French cashew (Guyana) or Otaheite cashew (India) because of its resemblance to the cashew apple, the pseudofruit or swollen fruit-stalk of the cashew nut. It is a fruit native to Malaysia, as well as many caribbean countries such as Trinidad and Tobago. A delight to the eye in every respect, the Malay apple is much admired for the beauty of the tree, its flowers and its colorful, glistening fruits, without parallel in the family Myrtaceae. The fruit is oblong-shaped and dark red in colour, although some varieties have white or pink skin. The flesh is white and surrounds a large seed."
+  },
+  {
+    "index": 42,
+    "labels": {
+      "en": "Malay Apple",
+      "tg": "Makopa"
+    },
+    "image": "fruit_imgs/42.jpg",
+    "desc": "Mandarin oranges are citrus fruits that have health benefits due to their vitamin C content. One mandarin provides about a third of a person's daily requirement of vitamin C and is an easy way to consume this essential nutrient. As well as being a good source of vitamin C, mandarins contain active plant compounds that have anti-inflammatory and antioxidant properties.\nThere are many different mandarin orange varieties, including Chinese honey mandarin, Satsuma, and clementine. Additionally, mandarin orange hybrids include tangelo and tangor.Satsuma mandarins are a specific type of mandarin orange originating in Japan over 700 years ago. They are sweet, tender, and seedless, and more difficult for people to find fresh in stores. Mandarins vary in color from bright orange to a deep reddish-orange. Their peel pulls away from the flesh quickly, allowing people to segment the orange into individual pieces without any difficulty."
+  },
+  {
+    "index": 43,
+    "labels": {
+      "en": "Mango",
+      "tg": "Mangga"
+    },
+    "image": "fruit_imgs/43.jpg",
+    "desc": "Mangoes are sweet, creamy fruits that have a range of possible health benefits. They are highly popular around the world. The mango is a tropical stone fruit and member of the drupe family. This is a type of plant food with a fleshy outer section that surrounds a shell, or pit. This pit contains a seed. Other members of the drupe family include olives, dates, and coconuts. There are many different kinds of mango. They vary in color, shape, flavor, and seed size. Although mango skin can be green, red, yellow, or orange, its inner flesh is mostly golden yellow. Mangoes are a good source of vitamins and minerals. They can contribute to the daily requirement for several nutrients. There are over 1,000 different types of mango in the world, but not all of them are available commercially. They all grow in warm, tropical areas, such as India and Africa, but they have their own unique flavors and textures. Here are six of the most popular mangoes around the globe."
+  },
+  {
+    "index": 44,
+    "labels": {
+      "en": "Mangosteen",
+      "tg": "Lilang Manggostan"
+    },
+    "image": "fruit_imgs/44.jpg",
+    "desc": "Mangosteen (Garcinia mangostana) is a plant that grows in Southeast Asia. The fruit is dark purple or red. The fruit pulp is slightly acidic and sweet. Mangosteen contains chemicals that might act as antioxidants and fight infections. People use mangosteen for serious gum infections, obesity, muscle strength, diarrhea, and many other conditions, but there is no good scientific evidence to support most of these uses. Don't confuse mangosteen with garcinia. These are not the same."
+  },
+  {
+    "index": 45,
+    "labels": {
+      "en": "Madras Thorn (Manila Tamarind)",
+      "tg": "Kamatsile"
+    },
+    "image": "fruit_imgs/45.jpg",
+    "desc": "Madras Thorn is a small pod averaging 10 to 15 centimeters in length and 1 to 2 centimeters in diameter and has a straight to curved shape, twisting and coiling as it matures. The pods have a bubbled appearance, similar to tamarind, and appear in variegated shades of green, brown, red, and pink. The pod's exterior is also textured, thin, and easily peeled, eventually bursting open to reveal pockets of fleshy seed arils. The edible pulp ranges in color from red, pink, to white and has a crisp, slightly grainy, and chewy consistency that melts on the tongue. Each pod can contain anywhere from 5 to 12 seed arils, and within the edible pulp, there is a flat, round, and black seed approximately 1 to 2 centimeters in length. Madras Thorn has a sweet and savory flavor mixed with sour, nutty, metallic, and musky nuances. In addition to the pods, Madras Thorn trees produce white-green flowers in the winter through late spring, valued for their clustering, showy nature, ultimately producing the unusually shaped pods. Madras Thorn is an excellent source of vitamin C to strengthen the immune system and a good source of calcium and phosphorus to protect bones and teeth. The pods also contain iron, potassium, thiamine, and are a source of antioxidants that reduce inflammation and guard the cells against free radical damage. Despite its name, botanically, it is not related to the traditional tamarinds, nor did it originate from Manila, Philippines"
+  },
+  {
+    "index": 46,
+    "labels": {
+      "en": "Marang Fruit",
+      "tg": "Marang"
+    },
+    "image": "fruit_imgs/46.jpg",
+    "desc": "These are the remnants of a fruit known as the marang, which grows throughout the Philippines and parts of Borneo. Unlike its more popular counterparts in the Artocarpus genus—namely breadfruit and jackfruit—marang has an odor that will funk up a room the same way that durian does. The scent is something like gasoline, but don't let that deter you; the sticky white flesh inside tastes like a fruit cup.\nA wide assortment of different fruit flavors come together with every mouthful, including softened pears, berries, banana, jackfruit, and pineapple. Some fans also consider the aroma of gasoline to be addictive, akin to the pleasure of eating a stinky cheese.After feasting on one of these large fruits, the meal is not over; the seeds can be roasted or boiled as a snack and taste a little bit like potatoes and chestnuts."
+  },
+  {
+    "index": 47,
+    "labels": {
+      "en": "Calabash",
+      "tg": "Miracle Fruit"
+    },
+    "image": "fruit_imgs/47.jpg",
+    "desc": "Miracle fruit is an evergreen shrub that grows in West Africa. The berry, leaf, and seed oil are used as medicine. People use miracle fruit for diabetes, obesity, taste disturbances in people treated with cancer drugs, and other conditions, but there is no good scientific evidence to support these uses. In foods, miracle fruit is used as a low-calorie sugar-free sweetener."
+  },
+  {
+    "index": 48,
+    "labels": {
+      "en": "Mountain Soursop",
+      "tg": "Guyabano (Mount. Soursop)"
+    },
+    "image": "fruit_imgs/48.jpg",
+    "desc": "The fruit is nearly round or broad-ovoid, to 6 in (15 cm) long. Its dark-green skin is studded with numerous short, fleshy 'spines'. It becomes very soft and falls when ripe. The pulp is yellow, peculiarly aromatic, sour to sub acid and bitter, fibrous, and contains many light-brown, plump seeds. \nThe fruit is similar to the Soursop ( A. muricata ) but smaller, usually with highly scented but poor to mediocre flavored flesh, though some varieties are better. Fruit is softball sized with orange-yellow flesh, smaller and rounder than the soursop. Fruit is climacteric (continues ripening after harvest)."
+  },
+  {
+    "index": 49,
+    "labels": {
+      "en": "Asian Palmyra Palm",
+      "tg": "Palmira (Nungu)"
+    },
+    "image": "fruit_imgs/49.jpg",
+    "desc": "The fruit has a black husk, and is borne in clusters. The top portion of the fruit must be cut off to reveal the sweet jelly seed sockets, translucent pale-white, similar to that of the lychee but with a milder flavor and no pit. The sweet jelly seed sockets occur in combinations of two, three or four seeds inside the fruit. The jelly part of the fruit is covered with a thin, yellowish-brown skin. These are known to contain watery fluid inside the fleshy white body. These seed sockets have been the inspiration behind certain sandeshes called jalbhora found in Bengal. The soft orange-yellow mesocarp pulp of the ripe fruit is sugary, dense and edible, rich in vitamins A and C. They also contain bitter compound called flabelliferrins, which are steroidal saponins.\nThe conventional way this fruit is eaten is when the outer casing is still unripe while the seeds are eaten as the fruit. But if the entire fruit is left to ripen, the fibrous outer layer of the palm fruits can also be eaten raw, boiled, or roasted. When this happens, the fruit takes a purple-blackish hue and tastes similar to coconut flesh."
+  },
+  {
+    "index": 50,
+    "labels": {
+      "en": "African Oil Palm",
+      "tg": "Oil Palm"
+    },
+    "image": "fruit_imgs/50.jpg",
+    "desc": "It's an edible vegetable oil that comes from the fruit of oil palm trees, the scientific name is Elaeis guineensis. Two types of oil can be produced; crude palm oil comes from squeezing the fleshy fruit, and palm kernel oil which comes from crushing the kernel, or the stone in the middle of the fruit. Oil palm trees are native to Africa but were brought to South-East Asia just over 100 years ago as an ornamental tree crop. Now, Indonesia and Malaysia make up over 85% of global supply but there are 42 other countries that also produce palm oil.\nPalm oil is an extremely versatile oil that has many different properties and functions that makes it so useful and so widely used. It is semi-solid at room temperature so can keep spreads spreadable; it is resistant to oxidation so can give products a longer shelf-life; it's stable at high temperatures so helps to give fried products a crispy and crunchy texture; and it's also odourless and colourless so doesn't alter the look or smell of food products. In Asian and African countries, palm oil is used widely as a cooking oil, just like we might use sunflower or olive oil in the UK.\nAs well as being versatile, compared to other vegetable oils the oil palm is a very efficient crop, able to produce high quantities of oil over small areas of land, almost all year round. This makes it an attractive crop for growers and smallholders, who can rely on the steady income that palm oil provides"
+  },
+  {
+    "index": 51,
+    "labels": {
+      "en": "Olive",
+      "tg": "Oliba"
+    },
+    "image": "fruit_imgs/51.jpg",
+    "desc": "The olive is a fruit from the olive tree, also known as Olea europaea. The parent family of this tree species is Oleaceae, which includes the flowering trees lilac, jasmine & forsythia. The olive tree produces a type of fruit called a drupe. A drupe is a fruit with a fleshy outer part and a single, hard seed on the interior. Some other common drupes include peach, plum, cherry and mango. \nThe olive is a fruit from the olive tree, also known as Olea europaea. The parent family of this tree species is Oleaceae, which includes the flowering trees lilac, jasmine & forsythia. The olive tree produces a type of fruit called a drupe. A drupe is a fruit with a fleshy outer part and a single, hard seed on the interior. Some other common drupes include peach, plum, cherry and mango"
+  },
+  {
+    "index": 52,
+    "labels": {
+      "en": "Orange",
+      "tg": "Kahel"
+    },
+    "image": "fruit_imgs/52.jpg",
+    "desc": "The orange is a type of citrus fruit that is native to tropical and subtropical regions of Asia and the eastern Mediterranean. It is a round or oval fruit with a thin, smooth skin that is typically bright orange in color. The flesh of the orange is divided into segments, each of which is filled with juice and surrounded by a thin, white membrane. Oranges are a good source of vitamin C, as well as other nutrients such as folate and potassium. They are often eaten fresh or juiced, and can also be used in cooking and baking."
+  },
+  {
+    "index": 53,
+    "labels": {
+      "en": "Papaya",
+      "tg": "Pawpaw"
+    },
+    "image": "fruit_imgs/53.jpg",
+    "desc": "Papaya is a tropical fruit that is native to the Americas. It is oblong or pear-shaped and has a soft, juicy flesh that is orange, yellow, or pink in color. The skin of the papaya is thin and smooth and ranges in color from green to yellow to orange. The fruit has a sweet, slightly musky flavor and a soft, buttery texture. Papaya is a good source of vitamins C and A, as well as potassium and fiber. It is often eaten fresh, either by itself or in salads and fruit dishes, and can also be used in cooking and baking. Papaya is also known for its digestive benefits and is sometimes used to make natural remedies for digestive disorders."
+  },
+  {
+    "index": 54,
+    "labels": {
+      "en": "Passion Fruit",
+      "tg": "Pasyonaryo"
+    },
+    "image": "fruit_imgs/54.jpg",
+    "desc": "It has a round or oval shape and a thick, leathery skin that is typically purple or yellow in color. The flesh of the fruit is filled with small, edible seeds and has a juicy, tart flavor. Passion fruit is a good source of vitamins C and A, as well as fiber and potassium. It is often eaten fresh, either by itself or in salads and fruit dishes, and can also be used to make juice, jam, and other preserves. Passion fruit is also known for its high levels of antioxidants, which may have a range of health benefits."
+  },
+  {
+    "index": 55,
+    "labels": {
+      "en": "Pea",
+      "tg": "Gisantes"
+    },
+    "image": "fruit_imgs/55.jpg",
+    "desc": "It has a round or oval shape and a thick, leathery skin that is typically purple or yellow in color. The flesh of the fruit is filled with small, edible seeds and has a juicy, tart flavor. Passion fruit is a good source of vitamins C and A, as well as fiber and potassium. It is often eaten fresh, either by itself or in salads and fruit dishes, and can also be used to make juice, jam, and other preserves. Passion fruit is also known for its high levels of antioxidants, which may have a range of health benefits."
+  },
+  {
+    "index": 56,
+    "labels": {
+      "en": "Peanut",
+      "tg": "Mani"
+    },
+    "image": "fruit_imgs/56.jpg",
+    "desc": "Peanuts (Arachis hypogaea) are an important food crop grown widely in the tropics and warmer temperate regions of the world. Peanuts originated from South America but are now grown in many regions of the world. The name “peanut” is misleading, because it is not botanically a true nut, but rather a legume. Peanuts are also called groundnuts in many English-speaking countries because the edible seeds of a peanut plant start above ground but mature underground. China and India are the largest producers of peanuts and they are regionally important in West Africa and several countries in eastern and southern Africa and the Americas. Though not considered a staple food in the diets of most consumers, peanuts can be an important source of nutrients, including protein and oil in some regions of the world. Peanuts are consumed as a whole nut snack, a component of confections and sauces to accompany other foods, peanut butter and oil."
+  },
+  {
+    "index": 57,
+    "labels": {
+      "en": "Peanut",
+      "tg": "Mani"
+    },
+    "image": "fruit_imgs/57.jpg",
+    "desc": "A pear is a mild, sweet fruit with a fibrous center. They are rich in essential antioxidants, plant compounds, and dietary fiber. Pears pack all of these nutrients in a fat free, cholesterol free fruit that is around 100 calories. As part of a balanced, nutritious diet, consuming pears could support weight loss and reduce a person's risk of cancer, diabetes, and heart disease. This article provides a nutritional breakdown of the pear and an in-depth look at its possible benefits. It also gives tips on incorporating more pears into the diet and lists some potential health risks of consuming them. Pears are a good source of fiber and vitamins C and K, as well as a range of other nutrients. They are often eaten fresh, either by themselves or in salads and fruit dishes, and can also be used in cooking and baking."
+  },
+  {
+    "index": 58,
+    "labels": {
+      "en": "Persimmon",
+      "tg": "Persimon"
+    },
+    "image": "fruit_imgs/58.jpg",
+    "desc": "Persimmon is a type of fruit that belongs to the same family as the tomato and the potato. It is native to Asia and is now grown in other parts of the world as well. Persimmons come in two main types: astringent and non-astringent. Astringent persimmons are typically smaller and have a firm, tannin-rich flesh that must be fully ripened before they can be eaten. Non-astringent persimmons are larger and have a sweeter, softer flesh that can be eaten when it is still firm. Persimmons are a good source of vitamins A and C, as well as fiber and potassium. They are often eaten fresh, either by themselves or in salads and fruit dishes, and can also be used in cooking and baking."
+  },
+  {
+    "index": 59,
+    "labels": {
+      "en": "Pili Nut",
+      "tg": "Pili"
+    },
+    "image": "fruit_imgs/59.jpg",
+    "desc": "Pili nuts are a type of tree nut that is native to the Philippines. They are small, round nuts with a hard, brown shell and a creamy, white flesh. Pili nuts have a delicate, slightly sweet flavor and a buttery, smooth texture. They are a good source of healthy fats, protein, and a range of essential vitamins and minerals. Pili nuts are often eaten on their own as a snack, or used in a variety of dishes and desserts. They can also be ground into a flour or used to make nut butter. Pili nuts are known for their high levels of monounsaturated fats, which may have a range of health benefits, including improving heart health and reducing the risk of certain types of cancer. \nPili nuts are under rated in comparison to other more popular nuts. Though it can be at par with the other popular nuts like cashew, almond, brazil and macadamia in terms of texture, taste, and extracted micro-nutrient yield. Unknown to many is its delicious taste and great health benefits. Also amazing about the pili nut tree is its productivity - not only limited to the kernel fruit. Nothing goes to waste, from the shell, kernel, pulp and bark. It has been known as source of  food, handicrafts, oil for skin care, fuel, and many more."
+  },
+  {
+    "index": 60,
+    "labels": {
+      "en": "Pineapple",
+      "tg": "Pinya"
+    },
+    "image": "fruit_imgs/60.jpg",
+    "desc": "Pineapple is a tropical fruit that is native to South America. It is a large, spiky-skinned fruit with a juicy, sweet flesh that is typically yellow or orange in color. The flesh of the pineapple is divided into segments and is surrounded by a tough, inedible core. Pineapple is a good source of vitamin C and manganese, as well as a range of other nutrients. It is often eaten fresh, either by itself or in salads and fruit dishes, and can also be used in cooking and baking. Pineapple is known for its enzyme bromelain, which has digestive and anti-inflammatory properties and is sometimes used in natural remedies. \nChristopher Columbus brought pineapples back to Europe after an expedition to South America. Pineapples became known as an extravagant and exotic fruit, served only at the most lavish of banquets. However, pineapples are now common, and people are able to enjoy them in solid, dried, and juice forms. In Central and South America, pineapple is not only valued for its sweet taste, it has been used for centuries to treat digestion problems and inflammation. "
+  },
+  {
+    "index": 61,
+    "labels": {
+      "en": "Pomegranate",
+      "tg": "Granada"
+    },
+    "image": "fruit_imgs/61.jpg",
+    "desc": "Pomegranate is a type of fruit that is native to the Middle East and has been cultivated for thousands of years. It has a round or oblong shape and a tough, inedible skin that is typically red or purple in color. Inside the skin, the pomegranate is filled with juicy, edible seeds that are surrounded by a sweet, tart flesh. Pomegranate is a good source of vitamins C and K, as well as a range of other nutrients. It is often eaten fresh, either by itself or in salads and fruit dishes, and can also be used to make juice and other preserves. Pomegranate is known for its high levels of antioxidants, which may have a range of health benefits. \nThey may be best known for the vibrantly colored juice they're often used in, but these unique fruits have a lot more to offer With the potential to support many aspects of health, from immunity to brain health, pomegranates are worth adding to your healthy eating routine. This article examines the many nutritional and health benefits of pomegranates."
+  },
+  {
+    "index": 62,
+    "labels": {
+      "en": "Pomelo",
+      "tg": "Granada"
+    },
+    "image": "fruit_imgs/62.jpg",
+    "desc": "Pomelo is a type of citrus fruit that is native to Southeast Asia. It is similar in appearance to a grapefruit, but is larger and has a thicker, smoother skin. The flesh of the pomelo is divided into segments and is usually white, pink, or red in color. It has a sweet, slightly tart flavor and a juicy, soft texture. Pomelo is a good source of vitamin C, as well as a range of other nutrients. It is often eaten fresh, either by itself or in salads and fruit dishes, and can also be used in cooking and baking. Pomelo is also known for its high levels of antioxidants, which may have a range of health benefits.\nThe pomelo may also be called pamplemousse, pummelo, or shaddock after the sea captain credited with bringing it to the West Indies. It's the largest and among the sweetest of the citrus fruits, with a thick rind and few seeds. Pomelos vary in color, from dark green to pale yellow. Some come to a peak on top where the stem joins the tree, giving them a vaguely pear shape, while others are completely round. The inner fruit ranges in color from white to orange to pink, and can be eaten fresh or used as a finishing element in both sweet and savory dishes. Pomelos generally cost considerably more than oranges and grapefruits, though aficionados say the expense is well worth it."
+  },
+  {
+    "index": 62,
+    "labels": {
+      "en": "Pomelo",
+      "tg": "Lukban"
+    },
+    "image": "fruit_imgs/62.jpg",
+    "desc": "Pomelo is a type of citrus fruit that is native to Southeast Asia. It is similar in appearance to a grapefruit, but is larger and has a thicker, smoother skin. The flesh of the pomelo is divided into segments and is usually white, pink, or red in color. It has a sweet, slightly tart flavor and a juicy, soft texture. Pomelo is a good source of vitamin C, as well as a range of other nutrients. It is often eaten fresh, either by itself or in salads and fruit dishes, and can also be used in cooking and baking. Pomelo is also known for its high levels of antioxidants, which may have a range of health benefits.\nThe pomelo may also be called pamplemousse, pummelo, or shaddock after the sea captain credited with bringing it to the West Indies. It's the largest and among the sweetest of the citrus fruits, with a thick rind and few seeds. Pomelos vary in color, from dark green to pale yellow. Some come to a peak on top where the stem joins the tree, giving them a vaguely pear shape, while others are completely round. The inner fruit ranges in color from white to orange to pink, and can be eaten fresh or used as a finishing element in both sweet and savory dishes. Pomelos generally cost considerably more than oranges and grapefruits, though aficionados say the expense is well worth it."
+  },
+  {
+    "index": 63,
+    "labels": {
+      "en": "Hairy Lychee",
+      "tg": "Rambutan"
+    },
+    "image": "fruit_imgs/63.jpg",
+    "desc": "Rambutan is a tropical fruit that is native to Southeast Asia. It is similar in appearance to a lychee, but has a spiky, hairy red or yellow skin. Inside the skin, the rambutan has a white, juicy flesh that is sweet and slightly tangy in flavor. The fruit also contains a single, inedible seed. Rambutan is a good source of vitamins C and B complex, as well as a range of other nutrients. It is often eaten fresh, either by itself or in fruit salads and other dishes. Rambutan is also known for its high levels of antioxidants, which may have a range of health benefits. \nIn addition to vitamins and minerals, rambutan provides several polyphenols that show promise for human health improvement. It may lower diabetes risk, support cancer prevention, reduce the risk of kidney stones, and support bone and heart health. Rambutan contains several antioxidants, including anthocyanins, phenolic compounds, and methanolic compounds.4 Although no long-term human studies have confirmed the anti-cancer effects of rambutan, antioxidants in fruits and vegetables have long been associated with cancer prevention. Choosing unprocessed rambutan (fresh over canned) provides the greatest concentration of antioxidants."
+  },
+  {
+    "index": 64,
+    "labels": {
+      "en": "Raspberry",
+      "tg": "Prambuwesas"
+    },
+    "image": "fruit_imgs/64.jpg",
+    "desc": "Raspberry is a type of fruit that belongs to the same family as the blackberry and the dewberry. It is native to Europe and parts of Asia and is now grown in many other parts of the world as well. Raspberries are small, soft fruits that grow on a bush and have a thin, delicate skin. The fruit is typically red in color, but can also be black, yellow, or purple, depending on the variety. Raspberries have a sweet, slightly tart flavor and are a good source of vitamins C and K, as well as a range of other nutrients. They are often eaten fresh, either by themselves or in salads and fruit dishes, and can also be used in cooking and baking. Raspberries are known for their high levels of antioxidants, which may have a range of health benefits."
+  },
+  {
+    "index": 65,
+    "labels": {
+      "en": "Red Mulberry",
+      "tg": "Pulang Moras"
+    },
+    "image": "fruit_imgs/65.jpg",
+    "desc": "Red mulberries are a type of fruit that is native to Asia and parts of the Middle East. They are small, red or black berries that grow on a tree and have a sweet, slightly tart flavor. Red mulberries are a good source of vitamins C and K, as well as a range of other nutrients. They are often eaten fresh, either by themselves or in salads and fruit dishes, and can also be used in cooking and baking. Red mulberries are known for their high levels of antioxidants, which may have a range of health benefits. They are also a popular ingredient in traditional medicines and natural remedies."
+  },
+  {
+    "index": 66,
+    "labels": {
+      "en": "Ridged Gourd",
+      "tg": "Prambuwesas"
+    },
+    "image": "fruit_imgs/66.jpg",
+    "desc": "Ridged gourd, also known as turai or beerakaya in some parts of the world, is a type of vegetable that is native to Asia. It is a long, green, ridged fruit that has a crunchy, watery flesh and a slightly bitter taste. Ridged gourd is a good source of vitamins C and A, as well as a range of other nutrients. It is often used in a variety of dishes, including stews, curries, and stir-fries. Ridged gourd is also known for its digestive and diuretic properties and is sometimes used in natural remedies for digestive disorders and other ailments."
+  },
+  {
+    "index": 67,
+    "labels": {
+      "en": "Snake Fruit",
+      "tg": "Salak"
+    },
+    "image": "fruit_imgs/67.jpg",
+    "desc": "Salak, also known as snake fruit, is a type of tropical fruit that is native to Indonesia. It has a distinctive, scaly brown skin and a white or pinkish flesh that is divided into segments. Salak has a sweet, slightly acidic flavor and a crunchy, juicy texture. It is a good source of vitamins C and B, as well as a range of other nutrients. Salak is often eaten fresh, either by itself or in fruit salads and other dishes, and can also be used to make juice and other preserves. It is also sometimes used in traditional medicines and natural remedies"
+  },
+  {
+    "index": 68,
+    "labels": {
+      "en": "Cottonfruit",
+      "tg": "Santol"
+    },
+    "image": "fruit_imgs/68.jpg",
+    "desc": "Santol, also known as cottonfruit or sandor in some parts of the world, is a tropical fruit that is native to Southeast Asia. It has a round or oval shape and a thin, yellow or orange skin that is covered in a layer of fine, white hairs. The flesh of the santol is white or pink and has a juicy, sour-sweet flavor. The fruit also contains a large number of seeds that are inedible. Santol is a good source of vitamins C and B, as well as a range of other nutrients. It is often eaten fresh, either by itself or in salads and fruit dishes, and can also be used to make juice and other preserve. Santol is also known for its digestive and laxative properties and is sometimes used in natural remedies for digestive disorders."
+  },
+  {
+    "index": 69,
+    "labels": {
+      "en": "Strawberry",
+      "tg": "Presa (Istroberi)"
+    },
+    "image": "fruit_imgs/69.jpg",
+    "desc": "Strawberry is a type of fruit that is native to Europe and parts of Asia, and is now grown in many other parts of the world as well. It is a small, red fruit with a sweet, slightly tart flavor and a juicy, soft texture. Strawberry is a good source of vitamin C, as well as a range of other nutrients. It is often eaten fresh, either by itself or in salads and fruit dishes, and can also be used in cooking and baking. Strawberry is known for its high levels of antioxidants, which may have a range of health benefits. It is also a popular ingredient in a variety of products, such as jam, juice, and ice cream.\nThere are more than 350 chemicals that occur naturally in strawberries. By comparison, raspberries contain about 200 chemicals and blueberries, less than 100. Though it is impractical and unnecessary for any flavor formula to contain a hundred compounds, strawberry flavor formulas can contain more than most. Unlike cherry, which is largely characterized by one chemical (benzaldehyde), strawberry is a complex of multiple esters, acids, aldehydes, lactones and other GRAS listed chemicals."
+  },
+  {
+    "index": 70,
+    "labels": {
+      "en": "Sugar Apple",
+      "tg": "Atis"
+    },
+    "image": "fruit_imgs/70.jpg",
+    "desc": "Sugar apple, also known as sweetsop or cherimoya in some parts of the world, is a tropical fruit that is native to the Americas. It has a round or oval shape and a tough, green skin that is covered in a layer of soft, brown scales. Inside the skin, the sugar apple has a white, creamy flesh that is divided into segments. The flesh has a sweet, slightly tart flavor and a soft, grainy texture. Sugar apple is a good source of vitamins C and B, as well as a range of other nutrients. It is often eaten fresh, either by itself or in salads and fruit dishes, and can also be used to make juice and other preserve. Sugar apple is also known for its digestive and laxative properties and is sometimes used in natural remedies for digestive disorders."
+  },
+  {
+    "index": 71,
+    "labels": {
+      "en": "Tree Tomato",
+      "tg": "Tamarillo"
+    },
+    "image": "fruit_imgs/71.jpg",
+    "desc": "Tamarillo, also known as tree tomato or tomate de árbol in some parts of the world, is a tropical fruit that is native to South America. It has a small, oblong shape and a thin, smooth skin that is typically red, yellow, or purple in color. The flesh of the tamarillo is juicy and has a tart, slightly sweet flavor. Tamarillo is a good source of vitamins A and C, as well as a range of other nutrients. It is often eaten fresh, either by itself or in salads and fruit dishes, and can also be used to make juice and other preserve. Tamarillo is also known for its high levels of antioxidants, which may have a range of health benefits."
+  },
+  {
+    "index": 72,
+    "labels": {
+      "en": "Tamarind",
+      "tg": "Sampalok"
+    },
+    "image": "fruit_imgs/72.jpg",
+    "desc": "Tamarillo, also known as tree tomato or tomate de árbol in some parts of the world, is a tropical fruit that is native to South America. It has a small, oblong shape and a thin, smooth skin that is typically red, yellow, or purple in color. The flesh of the tamarillo is juicy and has a tart, slightly sweet flavor. Tamarillo is a good source of vitamins A and C, as well as a range of other nutrients. It is often eaten fresh, either by itself or in salads and fruit dishes, and can also be used to make juice and other preserve. Tamarillo is also known for its high levels of antioxidants, which may have a range of health benefits."
+  },
+  {
+    "index": 73,
+    "labels": {
+      "en": "Tomato",
+      "tg": "Kamatis"
+    },
+    "image": "fruit_imgs/73.jpg",
+    "desc": "Tomato is a type of fruit that is native to South America and is now grown in many parts of the world. It is a round or oblong fruit with a thin, smooth skin that is typically red, although there are also varieties that are yellow, green, or purple. The flesh of the tomato is juicy and has a slightly acidic flavor. Tomato is a good source of vitamins C and A, as well as a range of other nutrients. It is often eaten fresh, either by itself or in salads and other dishes, and can also be used in cooking and baking. Tomato is a very versatile ingredient and is used in a wide variety of dishes, including sauces, soups, and stews. It is also a popular ingredient in many types of processed foods, such as ketchup and canned tomatoes."
+  },
+  {
+    "index": 74,
+    "labels": {
+      "en": "Vanilla",
+      "tg": "Banilya"
+    },
+    "image": "fruit_imgs/74.jpg",
+    "desc": "Vanilla is a flavor that is derived from the beans of the vanilla plant, which is native to Central and South America. The vanilla bean is a long, thin pod that contains tiny seeds. When the beans are ripe, they are picked, cured, and dried to develop their characteristic flavor and aroma. Vanilla is one of the most popular flavors in the world and is used in a wide variety of foods and beverages, including ice cream, baked goods, and drinks. It is also a popular ingredient in perfumes and other personal care products. Vanilla is known for its sweet, woody, and slightly floral flavor and aroma, and is often used to add depth and richness to a variety of dishes and products."
+  },
+  {
+    "index": 75,
+    "labels": {
+      "en": "Watermelon",
+      "tg": "Pakwan"
+    },
+    "image": "fruit_imgs/75.jpg",
+    "desc": "Watermelon is a type of fruit that is native to Africa and is now grown in many parts of the world. It has a round or oblong shape and a smooth, green skin that is often striped or mottled. The flesh of the watermelon is juicy and has a sweet, refreshing flavor. It is typically red or pink, but there are also varieties that have yellow, orange, or white flesh. Watermelon is a good source of vitamins A and C, as well as a range of other nutrients. It is often eaten fresh, either by itself or in salads and fruit dishes, and can also be used in cooking and baking. Watermelon is also known for its high water content and is often used to quench thirst on hot days."
+  }
+]

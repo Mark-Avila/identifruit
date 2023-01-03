@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Identifruit</string>
+    <string name="app_header">Identifruit</string>
+    <string name="app_header_subtitle">Find out what Filipino Fruit with a simple snap</string>
+    <string name="button_camera">Camera</string>
+    <string name="button_gallery">Gallery</string>
+    <string name="identify_header">This fruit is most likely to be</string>
+    <string name="unid_title">Dang it!</string>
+    <string name="unid_subtitle">Identifruit was unable to identify fruit</string>
+    <string name="unid_bullet_title">Make sure that:</string>
+    <string name="unid_bullet_1">• The fruit is visible</string>
+    <string name="unid_bullet_1_1">• It is not too small</string>
+    <string name="unid_bullet_1_2">• It is not too blurry</string>
+    <string name="unid_bullet_1_3">• It is not too low-quality</string>
+    <string name="unid_bullet_2">• The fruit is whole (eg. not minced squashed, \nliquified, etc.)</string>
+    <string name="unid_bullet_3">• The photo has color</string>
+    <string name="fruit_image">fruit_image</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel tristique velit. Sed eu lorem quis enim malesuada sodales eget eu augue. Aliquam sollicitudin ante sagittis nunc gravida, at interdum diam congue. Etiam leo augue, mattis eget ullamcorper vestibulum, pellentesque vestibulum risus. Aenean sagittis tempor lacus, eu fringilla lectus porttitor sit amet. Quisque a tellus leo. Integer justo massa, commodo vel tortor in, pulvinar elementum purus. Cras laoreet vulputate nulla, vel rhoncus erat ultricies sed. Morbi fringilla congue sapien ut porttitor. Curabitur aliquet lectus sit amet porta posuere. Phasellus ac dictum nisi. Ut sed nibh ac enim tincidunt viverra. Donec posuere, justo vel pulvinar eleifend, arcu ante hendrerit dui, sed volutpat mauris justo et mi. Morbi libero turpis, laoreet sit amet ex dapibus, molestie pretium ante. Vivamus a dui elit. Morbi feugiat tincidunt viverra. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vel tristique velit. Sed eu lorem quis enim malesuada sodales eget eu augue. Aliquam sollicitudin ante sagittis nunc gravida, at interdum diam congue. Etiam leo augue, mattis eget ullamcorper vestibulum, pellentesque vestibulum risus. Aenean sagittis tempor lacus, eu fringilla lectus porttitor sit amet. Quisque a tellus leo. Integer justo massa, commodo vel tortor in, pulvinar elementum purus. Cras laoreet vulputate nulla, vel rhoncus erat ultricies sed. Morbi fringilla congue sapien ut porttitor. Curabitur aliquet lectus sit amet porta posuere. Phasellus ac dictum nisi. Ut sed nibh ac enim tincidunt viverra. Donec posuere, justo vel pulvinar eleifend, arcu ante hendrerit dui, sed volutpat mauris justo et mi. Morbi libero turpis, laoreet sit amet ex dapibus, molestie pretium ante. Vivamus a dui elit. Morbi feugiat tincidunt viverra.</string>
+    <string name="mansanas">Mansanas</string>
+    <string name="tap_for_more_information">Tap for more information</string>
+    <string name="_97">0.97 %</string>
+    <string name="fruit_card_image">fruit card image</string>
+    <string name="apple">Apple</string>
+    <string name="confidence">Confidence</string>
+</resources>
