@@ -36,7 +36,6 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     private val imageSize: Int = 128
     private lateinit var currentPhotoPath: String
 
-
     class TFResultModel(
         val index: Int,
         val confidence: Float,
