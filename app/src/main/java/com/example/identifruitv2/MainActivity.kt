@@ -20,9 +20,7 @@ import androidx.core.content.FileProvider
 import com.example.identifruitv2.ml.G1DaFruitsclassification
 import org.tensorflow.lite.DataType
 import org.tensorflow.lite.support.tensorbuffer.TensorBuffer
-import java.io.ByteArrayOutputStream
 import java.io.File
-import java.io.IOException
 import java.nio.ByteBuffer
 import java.nio.ByteOrder
 import java.text.SimpleDateFormat
