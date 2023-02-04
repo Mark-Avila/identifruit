@@ -52,13 +52,16 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
     override fun onClick(view: View?) {
         when (view?.id) {
+            //On Camera button click
             R.id.cameraBtn -> {
+                //Request camera permissions first
                 if (
                     ContextCompat.checkSelfPermission(
                         this@MainActivity,
                         android.Manifest.permission.CAMERA
                     ) == PackageManager.PERMISSION_GRANTED
                 ) {
+                    //Get image from camera instance
                     val photoFile: File? = try {
                         createImageFile()
                     } catch (ex: java.lang.Exception) {
@@ -67,6 +70,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
                     }
 
                     if (photoFile != null) {
+                        //Convert camera image to URI to pass to next activity
                         val photoUri: Uri = FileProvider.getUriForFile(
                             this,
                             "com.example.android.fileprovider",
@@ -79,8 +83,6 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
                     }
 
 
-
-
                 } else {
                     ActivityCompat.requestPermissions(
                         this,
@@ -90,6 +92,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
                 }
             }
 
+            //On gallery button pick
             R.id.galleryBtn -> {
                 val galleryIntent =
                     Intent(Intent.ACTION_PICK, MediaStore.Images.Media.INTERNAL_CONTENT_URI)
@@ -116,13 +119,19 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
         super.onActivityResult(requestCode, resultCode, data)
 
+        //If permission is granted
         if (resultCode == RESULT_OK) {
+            //Camera request Code
             if (requestCode == 3) {
-
+                //Convert image to URI
                 val imageUri: Uri = Uri.fromFile(File(currentPhotoPath))
+
+                //Convert to Bitmap
                 var imageBitmap: Bitmap? = null
 
                 try {
+                    ///Check for device SDK version
+                    ///Because decodeBitmap doesn't work on older versions
                     imageBitmap = if (Build.VERSION.SDK_INT < 28) {
                         MediaStore.Images.Media.getBitmap(
                             this.contentResolver,
@@ -137,22 +146,24 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
                 }
 
                 if (imageBitmap != null) {
+                    //Create bitmap for image classification
                     val scaledImage: Bitmap =
                         Bitmap.createScaledBitmap(imageBitmap, imageSize, imageSize, false)
 
+                    //Get image classification results
                     val newResults: MutableList<ResultModel> = classifyImage(scaledImage)
-                    //
+
+                    //Create new intent with image URI and Model Results
                     val identifyIntent = Intent(this, IdentifyActivity::class.java)
                     identifyIntent.putParcelableArrayListExtra("results", ArrayList(newResults))
                     identifyIntent.putExtra("image", imageUri.toString())
 
+                    //Go to new activity
                     startActivity(identifyIntent)
                 }
 
             } else if (requestCode == 1) {
-
                 if (data != null) {
-
                     val dat: Uri = data.data!!
                     var newImage: Bitmap? = null
 
@@ -173,9 +184,6 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
                     if (newImage != null) {
                         val scaledImage: Bitmap =
                             Bitmap.createScaledBitmap(newImage, imageSize, imageSize, false)
-
-//                        val passedImage: Bitmap =
-//                            Bitmap.createScaledBitmap(newImage, 256, 256, false)
 
                         val newResults: MutableList<ResultModel> = classifyImage(scaledImage)
                         //
@@ -206,6 +214,8 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
         var pixel = 0
 
+        ///Convert each pixel in the image/bitmap to scale 0-255 because this is the format our
+        ///model accepts
         for (i in 1..imageSize) {
             for (j in 1..imageSize) {
                 val value: Int = intValues[pixel++]

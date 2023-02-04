@@ -19,20 +19,6 @@ class ResultsAdapter(
     private val appContext: Context
 ): RecyclerView.Adapter<ResultsAdapter.ResultsViewHolder>() {
 
-    private val fruits = FruitList(appContext)
-
-    private fun roundNum(num: Double): String {
-        val toHundreds = num * 100
-        val number3digits: Double = String.format("%.3f", toHundreds).toDouble()
-        val solution: Double = String.format("%.2f", number3digits).toDouble()
-
-        return solution.toBigDecimal().toPlainString()
-    }
-
-    fun addResult(result: ResultModel) {
-        results.add(result)
-    }
-
     class ResultsViewHolder(view: View, clickListener: FruitClickListener): RecyclerView.ViewHolder(view) {
         val labelView: TextView
         val confidenceView: TextView
@@ -60,17 +46,6 @@ class ResultsAdapter(
         )
     }
 
-
-    private fun concatPercent(num: String): String {
-        return "$num %"
-    }
-
-    private fun getImageFromIndex(index: Int): Bitmap {
-        val currFruit = fruits.getFruitFromIndex(index)
-        val imageStream = appContext.assets.open(currFruit?.image ?: "no_image.png")
-        return BitmapFactory.decodeStream(imageStream)
-    }
-
     override fun onBindViewHolder(holder: ResultsViewHolder, position: Int) {
         val currResult = results[position]
         val currImageBitmap: Bitmap = getImageFromIndex(currResult.index)
@@ -89,5 +64,29 @@ class ResultsAdapter(
 
     override fun getItemCount(): Int {
         return results.size
+    }
+
+    private fun concatPercent(num: String): String {
+        return "$num %"
+    }
+
+    private fun getImageFromIndex(index: Int): Bitmap {
+        val currFruit = fruits.getFruitFromIndex(index)
+        val imageStream = appContext.assets.open(currFruit?.image ?: "no_image.png")
+        return BitmapFactory.decodeStream(imageStream)
+    }
+
+    private val fruits = FruitList(appContext)
+
+    private fun roundNum(num: Double): String {
+        val toHundreds = num * 100
+        val number3digits: Double = String.format("%.3f", toHundreds).toDouble()
+        val solution: Double = String.format("%.2f", number3digits).toDouble()
+
+        return solution.toBigDecimal().toPlainString()
+    }
+
+    fun addResult(result: ResultModel) {
+        results.add(result)
     }
 }

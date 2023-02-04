@@ -74,11 +74,5 @@ class IdentifyActivity : AppCompatActivity(), FruitClickListener {
             identifyLabel.visibility = View.GONE
             unidLayout.visibility = View.VISIBLE
         }
-
-
-
-
     }
-
-
 }

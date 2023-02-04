@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Identifruit</string>
     <string name="app_header">Identifruit</string>
-    <string name="app_header_subtitle">Find out what Filipino Fruit with a simple snap</string>
+    <string name="app_header_subtitle">CS373 - Data Analysis</string>
     <string name="button_camera">Camera</string>
     <string name="button_gallery">Gallery</string>
     <string name="identify_header">This fruit is most likely to be</string>
@@ -22,4 +22,5 @@
     <string name="fruit_card_image">fruit card image</string>
     <string name="apple">Apple</string>
     <string name="confidence">Confidence</string>
+    <string name="developed_by_group_1">Developed by Group 1</string>
 </resources>
